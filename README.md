@@ -3,7 +3,7 @@
 ## Homeseek(2022-2024)
 **Released on [Steam](https://store.steampowered.com/app/2093000/Homeseek/)**
 
-![Homeseek Image](/assets/homeseek.jpg)
+![Homeseek Image](/assets/images/homeseek.jpg)
 
 Homeseek is a post-apocalyptic survival strategy game set on a dystopian, resource-strapped Earth at the beginning of the next century.
 
@@ -23,7 +23,7 @@ Contributions:
 ## Classic games library(2021-2022)
 **Released on Android and IOS**
 
-![Spades Image](/assets/spades.jpg)
+![Spades Image](/assets/images/spades.jpg)
 
 Classic board and card games like [Domino](https://play.google.com/store/apps/details?id=com.zengardenapps.dominoes), [Spades](https://play.google.com/store/apps/details?id=com.zengardenapps.spades), [Gin Rummy](https://play.google.com/store/apps/details?id=com.zengardenapps.ginrummy), Hearts.
 
@@ -40,7 +40,7 @@ Contributions:
 ### Siege The Day(2019-2020)
 **Released on [Steam](https://store.steampowered.com/app/1412070/Siege_the_Day/)**
 
-![SiegeTheDay Image](/assets/siegetheday.jpg)
+![SiegeTheDay Image](/assets/images/siegetheday.jpg)
 
 Siege the Day is a tactical real-time combat castle builder game.
 
