@@ -7,11 +7,9 @@
 
 Homeseek is a post-apocalyptic survival strategy game set on a dystopian, resource-strapped Earth at the beginning of the next century.
 
-Role: Senior Unity Developer
-
-Tools: Unity, C#, Bitbucket, Jira, Playfab
-
-Contributions:
+**Role:** Senior Unity Developer
+<br>**Tools:** Unity, C#, Bitbucket, Jira, Playfab
+<br>**Contributions:**
 - Citizens Behavior system based on Behaviour Trees
 - UI system
 - Quests system
@@ -27,11 +25,9 @@ Contributions:
 
 Classic board and card games like [Domino](https://play.google.com/store/apps/details?id=com.zengardenapps.dominoes), [Spades](https://play.google.com/store/apps/details?id=com.zengardenapps.spades), [Gin Rummy](https://play.google.com/store/apps/details?id=com.zengardenapps.ginrummy), Hearts.
 
-Role: Unity Developer
-
-Tools: Unity, C#, Github, Jira
-
-Contributions:
+**Role:** Unity Developer
+<br>**Tools:** Unity, C#, Github, Jira
+<br>**Contributions:**
 - Game programming
 - UI system
 - AI of opponents
@@ -44,11 +40,9 @@ Contributions:
 
 Siege the Day is a tactical real-time combat castle builder game.
 
-Role: Unity Developer
-
-Tools: Unity, C#, Github, Trello, Playfab
-
-Contributions:
+**Role:** Unity Developer
+<br>**Tools:** Unity, C#, Github, Trello, Playfab
+<br>**Contributions:**
 - Castle editor for the player
 - Game programming
 - Multiplayer
