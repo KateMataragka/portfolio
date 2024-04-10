@@ -1,7 +1,7 @@
 # Recent projects
 
 
-## [Homeseek](https://store.steampowered.com/app/2093000/Homeseek/(2022-2024)
+## [Homeseek](https://store.steampowered.com/app/2093000/Homeseek/)(2022-2024)
 
 ![Homeseek Image](/assets/images/homeseek.jpg)
 
