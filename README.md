@@ -33,7 +33,7 @@ Classic board and card games like [Domino](https://play.google.com/store/apps/de
 - AI of opponents
 - Testing, bug fixing
 
-### Siege The Day(2019-2020)
+## Siege The Day(2019-2020)
 **Released on [Steam](https://store.steampowered.com/app/1412070/Siege_the_Day/)**
 
 ![SiegeTheDay Image](/assets/images/siegetheday.jpg)
