@@ -12,8 +12,9 @@ Homeseek is a post-apocalyptic survival strategy game set on a dystopian, resour
 <br>**Role:** Senior Unity Developer
 <br>**Tools:** Unity, C#, Bitbucket, Jira, Playfab
 <br>**Contributions:**
-- Citizens Behavior system based on Behaviour Trees
+- AI based on Behaviour Trees
 - UI system
+- Audio system
 - Quests system
 - Events system
 - Expeditions in world map
@@ -28,13 +29,14 @@ Classic board and card games like [Domino](https://play.google.com/store/apps/de
 
 **Released on:** Android and IOS
 <br>**Studio:** [Zen Garden Games](https://play.google.com/store/apps/developer?id=Zen+Garden+Apps&hl=en)
-<br>**Role:** Unity Developer
+<br>**Role:** Senior Unity Developer
 <br>**Tools:** Unity, C#, Github, Jira
 <br>**Contributions:**
 - Game programming
 - UI system
+- Audio system
 - AI of opponents
-- Testing, bug fixing
+- Testing,profiling and bug fixing
 
 ## [Siege The Day](https://store.steampowered.com/app/1412070/Siege_the_Day/)(2019-2020)
 
@@ -49,6 +51,7 @@ Siege the Day is a tactical real-time combat castle builder game.
 <br>**Contributions:**
 - Castle editor for the player
 - Game programming
-- Multiplayer
+- Multiplayer mode
 - UI system
+- Audio system
 - Testing, profiling and bug fixing
